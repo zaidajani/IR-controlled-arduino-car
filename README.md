@@ -10,3 +10,6 @@ IR remote controlled car made using arduino and other components.
 4. IR receiver
 5. IR Remote
 
+## Demo
+![demo](./demo-high-res)
+
