@@ -1,6 +1,7 @@
-/*IR remote control car with Arduino.
- * https://srituhobby.com
- */
+/*
+  IR controlled car with arduino 
+  @ZAIDAJANI
+*/
  
 #include <AFMotor.h>
 #include <IRremote.h>
