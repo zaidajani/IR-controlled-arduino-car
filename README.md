@@ -13,3 +13,6 @@ IR remote controlled car made using arduino and other components.
 ## Demo
 ![demo](./demo-high-res.gif)
 
+## Diagram
+
+!(./diagram.png)[diagram]
