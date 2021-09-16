@@ -19,4 +19,4 @@ IR remote controlled car made using arduino and other components.
 
 ### Connect the wires and batteries according to your preference
 
-## Enjoy your DIY car
+## Enjoy your DIY car.
